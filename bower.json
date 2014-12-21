@@ -1,0 +1,21 @@
+{
+  "name": "canterbury-onecoffee",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tribalworldwide/canterbury-onecoffee",
+  "authors": [
+    "Gauthier Pompougnac <gauthier.pompougnac@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lesshat": "~3.0.2",
+    "modernizr": "~2.8.3"
+  }
+}

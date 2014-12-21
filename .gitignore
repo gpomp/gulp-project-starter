@@ -1,0 +1,7 @@
+node_modules
+dist
+app/definitions
+app/fonts/*.*
+app/css
+app/js
+app/less/generated
